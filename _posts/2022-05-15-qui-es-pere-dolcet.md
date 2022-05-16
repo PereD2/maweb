@@ -25,3 +25,5 @@ sap fer jocs i que es passa tot el dia mirant anime o altres coses.
 > d'obrir el crack, i després pots jugar i tal però
 > no et pots viciar massa perquè també has de tenir vida, no?
 > -- Pere Dolcet, 2022
+
+include
