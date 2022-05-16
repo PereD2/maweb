@@ -10,6 +10,7 @@ Pere Dolcet™ és un prestigiós compositor de música underground i jugador pr
 Va estudiar Enginyeria Informàtica a la Universitat de Barcelona una mica, i ho va deixar perquè "els profes són
 downs" (citation needed). 
 
+![My image](/assets/img/machinedude.jpg)
 
 # Net worth
 El networth del Pere Dolcet™ està al voltant de 900 Dogecoin, que equival a 77,86€ però ell confia en que l'Elon Musk
@@ -25,5 +26,3 @@ sap fer jocs i que es passa tot el dia mirant anime o altres coses.
 > d'obrir el crack, i després pots jugar i tal però
 > no et pots viciar massa perquè també has de tenir vida, no?
 > -- Pere Dolcet, 2022
-
-include
