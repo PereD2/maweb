@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Become a Parteon!
+permalink: "/become-a-parteon/"
 ---
 
 Aquesta web no seria possible sense les contribucions de tots els meus Parteons.
