@@ -6,7 +6,7 @@ categories: pere
 author: "Pere"
 ---
 
-Pere Dolcet™ és un prestigiós compositor de música underground i jugador professional de [Slither.io](slither.io).
+Pere Dolcet™ és un prestigiós compositor de música underground i jugador professional de [Slither.io](https://slither.io).
 Va estudiar Enginyeria Informàtica a la Universitat de Barcelona una mica, i ho va deixar perquè "els profes són
 downs" (citation needed). 
 
